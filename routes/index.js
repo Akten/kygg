@@ -1,6 +1,7 @@
 /**
  * This file is where you define your application routes and controllers.
  *
+ 
  * Start by including the middleware you want to run for every request;
  * you can attach middleware to the pre('routes') and pre('render') events.
  *
